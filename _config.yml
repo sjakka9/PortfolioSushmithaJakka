@@ -1,43 +1,43 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: CodeName-Detective/portfolio
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Shri Harsha Adapala
+title: Research Assistant
+email: shriadapala@outlook.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +1-7166581292
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#twitter_username: jekyllrb
+github_username:  CodeName-Detective
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: shri-harsha-adapala
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,66 +50,234 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/bat_baby.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  You can call me Shri and I am a Research Assitant at University at Buffalo working in the fields of Conversational AI and Instance Segmentation. I also have experience in Cloud Platforms and Robotic Process Automation.
+  
+  I've got this whole Batman vibe going on. Just waiting for my utility belt to arrive in the mail!
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  ## Technical Proficiency
+  - Proficient in programming languages: C++, Python.
+  - Expertise in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Reinforcement Learning.
+  - Hands-on experience with PyTorch, CUDA programming, AWS, and Azure.
 
 content:
-  - title: Projects # Title for the section
+  - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Adaptive Deep-Learning for Environment Agnostic Human Action Recognition
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  CodeName-Detective/Adaptive-Deep-Learning-for-Environment-Agnostic-Human-Action-Recognition
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Focus on developing a deep learning-based system for accurate identification and analysis of human actions in varied environments.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          ◦ Developed a sophisticated deep learning system tailored for accurate recognition of human actions across diverse settings, particularly for surveillance and sports analysis, utilizing a refined subset of 10 classes from the UCF101 dataset.
+          ◦ Applied AlexNet3D and VGG3D models for advanced video data processing.
+          ◦ Segmented the videos for an effective background and human masking
+          ◦ Achieved notable metrics: AlexNet (up to 36% accuracy, 37.51% precision) and VGG (up to 39% accuracy, 35.26% precision) under varying conditions.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: NovelConvo AI - Intelligent Conversations with Literary Companions (RAG Application)
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
+            icon: fab fa-github
+            url: CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          NovelConvo AI is an innovative Q&A and chat system tailored for classic book enthusiasts.
+        description: | # this will include new lines to allow paragraphs
+          ◦ Trained and Integrated Chatterbot, enhancing its capabilities with diverse data sets for natural and contextually relevant dialogues.
+          ◦ Utilized DeBERTa-v3-large-mnli-fever-anli-ling-wanli to classify novels and prompts, streamlining user interactions.
+          ◦ Developed an Inverted Index using Python and Flask, integrating Linked Lists for efficient data management.
+          ◦ Implemented a Document-at-a-Time (DAAT) Boolean query processing system for advanced information retrieval.
+          ◦ Integrated Open AI's Retrieval Augmented Generation to the system to make responses more sophisticated.
+          ◦ Developed a chatbot web application using ReactJs.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Neural Machine Translation
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  CodeName-Detective/Neural-Machine-Translation
+            icon: fab fa-github
+            url: CodeName-Detective/Neural-Machine-Translation
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Language Translator from English to French.
+        description: | # this will include new lines to allow paragraphs
+          ◦ Constructed and deployed a Sequence-to-Sequence network using an encoding and decoding paradigm, utilizing LSTM nodes as the foundation. Implementation achieved a noteworthy test Bleu score of 0.365.
+          ◦ Executed a bidirectional Sequence-to-Sequence network, incorporating both forward and backward encoding. Implementation, succeeded in a commendable test Bleu score of 0.369, highlighting the model’s proficiency in generating high-quality sequences.
+          ◦ Performed a Sequence-to-Sequence network with bidirectional encoding and incorporated an Attention mechanism in the decoding process. This advanced architecture led to remarkable results, attaining a notable test Bleu score of 0.406. The model’s ability to generate accurate and coherent sequences was improved by the inclusion of Attention.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Inverted Index and Boolean DAAT Retrieval Web Application in Flask (Python)
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  CodeName-Detective/Inverted-Index-DAAT-Python-Flask
+            icon: fab fa-github
+            url: CodeName-Detective/Inverted-Index-DAAT-Python-Flask
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Implementation of an Inverted Index using Linked Lists and Flask in Python. It allows for efficient Boolean queries using a Document-at-a-time (DAAT) strategy, ideal for understanding Information Retrieval concepts.
+        description: | # this will include new lines to allow paragraphs
+          ◦ Developed an Inverted Index using Python and Flask, integrating Linked Lists for efficient data management.
+          ◦ Implemented a Document-at-a-Time (DAAT) Boolean query processing system for advanced information retrieval.
+          ◦ Crafted a text preprocessing module for document tokenization and normalization.
+          ◦ Enabled interactive querying through a Flask web application, demonstrating web development and information retrieval skills.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Neural Image Classification
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  CodeName-Detective/Neural-Image-Classification
+            icon: fab fa-github
+            url: CodeName-Detective/Neural-Image-Classification
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Academic project on different image classification tasks.
+        description: | # this will include new lines to allow paragraphs
+          ◦ Developed and trained an initial AlexNet model, and then I modified the AlexNet architecture to enable the classification of three categories: Dogs, Food, and Vehicles. This modification resulted in impressive accuracy rates of 90% and 92.6% for the respective categories. Subsequently, I implemented the VGG-13 model, employing Mixed Precision Training techniques. This approach yielded a remarkable accuracy of 91.4%.
+          ◦ Executed the implementation and training of a customized AlexNet model for the classification of Google Street View House Numbers, resulting in an impressive accuracy of 91.4%.
+          ◦ Developed and trained a customized AlexNet model for classifying the OCTMNIST dataset, yielding an accuracy of 71%.
+          ◦ Created and trained a customized AlexNet model to classify a 10-class ImageNet dataset, achieving an accuracy of 68.4%. Then, I implemented the VGG-13 model and employed Mixed Precision Training, which led to a notable accuracy improvement to 71.8%.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: FIFA 23 Players Archive - Comprehensive Data & Analysis Database Management System with Power BI Visualization
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        #additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Revamp football data management with a dynamic player database system.
+        description: | # this will include new lines to allow paragraphs
+          ◦ Created and maintained a Fifa23 Players database from scratch using database design theory. This involves data massaging using Python, modeling E/R diagrams, 
+            and translating it into a relational schema.
+          ◦ Analyzed functional dependencies and normalized the tables to eliminate data redundancies and anomalies.
+          ◦ Formulated and executed a variety of SQL queries to address common retail scenarios, and optimized queries for efficient data retrieval.
+          ◦ Designed and created an interactive PowerBi Dashboard that provides visual insights into the database, showcasing different stats.
+
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: University at Buffalo
+        sub_title: Research Assistant
+        caption: Jan 2024 - Present
+        link: https://www.buffalo.edu
+        #quote: >
+          #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          ◦ Working under Dr. Rohini Srihari in the NLP Lab on Enhancing Alternative Augmentative Communication (AAC).
+          ◦ Collecting Data and Annotating it.
+          ◦ Building Real-Time Data Retrieval Module and Context Generation using LLMs and fine-tuning them.
+      - layout: right
+        title: University at Buffalo
+        sub_title: Research Assistant
+        caption: Jan 2024 - Present
+        link: https://www.buffalo.edu
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          ◦ Working under Dr. Karthik Dantu in the Computer Vision DRONES Lab on detecting and classifying plastic material using Computer Vision and Instance Segmentation for Buffalo’s plastic recycling plant.
+          ◦ Collecting Data and Annotating it.
+          ◦ Building Pipelines to train and test the Mask R-CNN model on different datasets.
+          ◦ Building Visualization Scripts to analyze the models’ internal representation on different datasets.
+      - layout: right
+        title: University at Buffalo
+        sub_title: Graduate Teaching Assistant
+        caption: May 2023 - Present
+        link: https://www.buffalo.edu
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          ◦ Played a pivotal role in two key courses: Probability Theory and Stochastic Processes, and Applied Statistical Analysis.
+          ◦ Facilitated weekly practical sessions, enabling students to gain hands-on experience and deepen understanding of course materials.
+          ◦ Held position of a grader for the Time Series Analysis course. Evaluated and assessed students’ assignments, exams, and projects related to course.
+          ◦ Managed a diverse cohort of 260 students.
+      - layout: right
+        title: Thoucentric
+        sub_title: Data Scientist
+        caption: February 2021 - December 2022
+        link: https://thoucentric.com
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          ◦ Conducted sentiment analysis on reviews within the Research and Development department of Unilever, utilizing Recurrent Neural Networks (RNNs). Identified areas of improvement within company’s products based on distinguished sentiment, providing valuable insights for improving product offerings. Increased annual product sales from 54% to 56.16%.
+          ◦ Created an Information Retrieval system (IR) to accurately identify and map products across various sources and marketplaces, facilitating efficient mapping and integration of products between different platforms and marketplaces for company’s legacy data. Facilitated initiation of an internal project valued at $10,000 for company.
+
+      - layout: right
+        title: Cloudaccel InC.
+        sub_title: Data Scientist / Robotic Process Automation Engineer / Cloud Infrastructure Engineer 
+        caption: March 2018 - February 2021
+        link: https://cloudaccel.io
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          ◦ Devised and integrated Auto Encoders as a crucial component in company’s flagship project to detect machine anomalies. Utilized optimized and cleaned data for enhanced performance. Increased monthly alerts from 300 to 450, demonstrating improved monitoring and detection capabilities.
+          ◦ Led migration of a client’s entire infrastructure from an on-premises environment to AWS, ensuring a seamless transition. Realized a annual cost savings of $60,000 by utilizing a pay-as-you-go model.
+          ◦ Migrated client’s infrastructure from AWS to Azure, including a 15GB database and services like Autoscaling, Load balancing e.t.c. Achieved a seamless transfer with only 2 minutes downtime. Demonstrated expertise in optimizing costs and minimizing downtime, ensuring a cost-effective and efficient transition for client.
+          ◦ Designed and accomplished robust and scalable cloud environments prioritizing high availability, fault tolerance, and optimal performance. Implemented industry best practices to minimize downtime, maximize availability, and maintain cost-efficiency. Resulted in completion of a $5,000 valued project.
+          ◦ Implemented infrastructure as code methodologies to enhance product development process. Streamlined infrastructure deployment and management through automation, ensuring efficient and consistent provisioning of resources. Reduced manual errors and ensured scalability and reproducibility throughout product lifecycle. Decreased deployment time from 5 hours to 0.5 hour per deployment, resulting in improved efficiency.
+          ◦ Designed and performed a robust monitoring system for company’s flagship product. Leveraged on capabilities of Elastic Stack, including Elasticsearch, Logstash, and Kibana, to efficiently manage and analyze logs. Comprehensive solution provided real-time insights and increased visibility into virtual machines’ performance, catalyzing proactive issue identification and timely resolution. The comprehensive solution enabled real-time insights and increased visibility into virtual machines, resulting in a 50% improvement in issue identification (200 to 300 alerts) and timely resolution, reducing downtime and maximizing operational efficiency.
+          ◦ Constructed and deployed automation bots using Blue Prism and UI Path to streamline email management and automate file downloads, eliminating redundant tasks for client. Achieved a weekly reduction of 10 hours in manual workload.
+
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: University at Buffalo
+        sub_title: Master of Science, Data Science
+        caption: 2023 - 2024
+        #quote: >
+          #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+          Graduated with CGPA of 4/4
+      - layout: top-right
+        title: Sri Venkateswara University
+        sub_title: Bachelor of Technology, Computer Science and Engineerin
+        caption: 2013 - 2019
+        #quote: >
+          #Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Graduated with CGPA of 7.6/10
+  - title: The R&D Crusader - A Scientific Journey Beyond Gotham.
     layout: text
+    quote: >
+        In the vast landscape of AI research, follow the caped crusader of science as we navigate the frontiers of innovation, armed with intellect and curiosity.
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      ◦ I am proficient in C++, Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, PyTorch, CUDA programming, AWS, Azure.
 
 # Footer
 footer_show_references: true
