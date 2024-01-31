@@ -74,7 +74,7 @@ content:
         additional_links:
           - title:  CodeName-Detective/Adaptive-Deep-Learning-for-Environment-Agnostic-Human-Action-Recognition
             icon: fab fa-github
-            url: CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
+            url: github.com/CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -97,7 +97,7 @@ content:
         additional_links:
           - title:  CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
             icon: fab fa-github
-            url: CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
+            url: github.com/CodeName-Detective/NovelConvo-AI-Intelligent-Conversations-with-Literary-Companions
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -124,7 +124,7 @@ content:
         additional_links:
           - title:  CodeName-Detective/Neural-Machine-Translation
             icon: fab fa-github
-            url: CodeName-Detective/Neural-Machine-Translation
+            url: github.com/CodeName-Detective/Neural-Machine-Translation
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -168,7 +168,7 @@ content:
         additional_links:
           - title:  CodeName-Detective/Neural-Image-Classification
             icon: fab fa-github
-            #url: CodeName-Detective/Neural-Image-Classification
+            url: github.com/CodeName-Detective/Neural-Image-Classification
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -297,6 +297,8 @@ content:
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Graduated with CGPA of 4/4
+          Worked as Graduate Teaching Assistant
+          Worked as Research Assistant
       - layout: top-right
         title: Sri Venkateswara University
         sub_title: Bachelor of Technology, Computer Science and Engineerin
@@ -305,6 +307,11 @@ content:
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Graduated with CGPA of 7.6/10
+          
+          General Sceretery of Department of Computer Science and Engineering 2016-17
+
+          Member of Anti-Ragging Squad 2016-17
+
   - title: The R&D Crusader - A Scientific Journey Beyond Gotham.
     layout: text
     quote: >
