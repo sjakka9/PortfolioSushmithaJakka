@@ -316,10 +316,10 @@ content:
 
   - title: The R&D Crusader - A Scientific Journey Beyond Gotham.
     layout: text
-    quote: >
-        In the vast landscape of AI research, follow the caped crusader of science as we navigate the frontiers of innovation, armed with intellect and curiosity.
     content: | # this will include new lines to allow paragraphs
-      ◦ I am proficient in C++, Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, PyTorch, CUDA programming, AWS, Azure.
+      In the vast landscape of AI research, follow the caped crusader of science as we navigate the frontiers of innovation, armed with intellect and curiosity
+
+      Loading........
 
 # Footer
 footer_show_references: true
