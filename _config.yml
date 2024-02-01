@@ -52,12 +52,12 @@ linkedin_username: shri-harsha-adapala
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/bat_baby.JPG
 about_content: | # this will include new lines to allow paragraphs
-  You can call me Shri and I am a Research Assitant at University at Buffalo working in the fields of Conversational AI and Instance Segmentation. I also have experience in Cloud Platforms and Robotic Process Automation.
+  You can call me Shri and I am a Research Assitant at the University at Buffalo working in the fields of Conversational AI and Instance Segmentation. I also have experience in Cloud Platforms and Robotic Process Automation.
   
   I've got this whole Batman vibe going on. Just waiting for my utility belt to arrive in the mail!
 
   ## Technical Proficiency
-  - Proficient in programming languages: C++, Python.
+  - Proficient in programming languages: C++, and Python.
   - Expertise in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Reinforcement Learning.
   - Hands-on experience with PyTorch, CUDA programming, AWS, and Azure.
 
@@ -181,7 +181,7 @@ content:
           
           ◦ Developed and trained a customized AlexNet model for classifying the OCTMNIST dataset, yielding an accuracy of 71%.
           
-          ◦ Created and trained a customized AlexNet model to classify a 10-class ImageNet dataset, achieving an accuracy of 68.4%. Then, I implemented the VGG-13 model and employed Mixed Precision Training, which led to a notable accuracy improvement to 71.8%.
+          ◦ Created and trained a customized AlexNet model to classify a 10-class ImageNet dataset, achieving an accuracy of 68.4%. Then, I implemented the VGG-13 model and employed Mixed Precision Training, which led to a notable accuracy improvement of 71.8%.
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -247,9 +247,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           ◦ Played a pivotal role in two key courses: Probability Theory and Stochastic Processes, and Applied Statistical Analysis.
           
-          ◦ Facilitated weekly practical sessions, enabling students to gain hands-on experience and deepen understanding of course materials.
+          ◦ Facilitated weekly practical sessions, enabling students to gain hands-on experience and deepen their understanding of course materials.
           
-          ◦ Held position of a grader for the Time Series Analysis course. Evaluated and assessed students’ assignments, exams, and projects related to course.
+          ◦ Held the position of a grader for the Time Series Analysis course. Evaluated and assessed students’ assignments, exams, and projects related to the course.
           
           ◦ Managed a diverse cohort of 260 students.
       - layout: right
@@ -260,9 +260,9 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          ◦ Conducted sentiment analysis on reviews within the Research and Development department of Unilever, utilizing Recurrent Neural Networks (RNNs). Identified areas of improvement within company’s products based on distinguished sentiment, providing valuable insights for improving product offerings. Increased annual product sales from 54% to 56.16%.
+          ◦ Conducted sentiment analysis on reviews within the Research and Development department of Unilever, utilizing Recurrent Neural Networks (RNNs). Identified areas of improvement within the company’s products based on distinguished sentiment, providing valuable insights for improving product offerings. Increased annual product sales from 54% to 56.16%.
           
-          ◦ Created an Information Retrieval system (IR) to accurately identify and map products across various sources and marketplaces, facilitating efficient mapping and integration of products between different platforms and marketplaces for company’s legacy data. Facilitated initiation of an internal project valued at $10,000 for company.
+          ◦ Created an Information Retrieval system (IR) to accurately identify and map products across various sources and marketplaces, facilitating efficient mapping and integration of products between different platforms and marketplaces for the company’s legacy data. Facilitated initiation of an internal project valued at $10,000 for the company.
 
       - layout: right
         title: Cloudaccel InC.
@@ -272,19 +272,19 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          ◦ Devised and integrated Auto Encoders as a crucial component in company’s flagship project to detect machine anomalies. Utilized optimized and cleaned data for enhanced performance. Increased monthly alerts from 300 to 450, demonstrating improved monitoring and detection capabilities.
+          ◦ Devised and integrated Auto Encoders as a crucial component in the company’s flagship project to detect machine anomalies. Utilized optimized and cleaned data for enhanced performance. Increased monthly alerts from 300 to 450, demonstrating improved monitoring and detection capabilities.
           
-          ◦ Led migration of a client’s entire infrastructure from an on-premises environment to AWS, ensuring a seamless transition. Realized a annual cost savings of $60,000 by utilizing a pay-as-you-go model.
+          ◦ Led migration of a client’s entire infrastructure from an on-premises environment to AWS, ensuring a seamless transition. Realized an annual cost savings of $60,000 by utilizing a pay-as-you-go model.
           
-          ◦ Migrated client’s infrastructure from AWS to Azure, including a 15GB database and services like Autoscaling, Load balancing e.t.c. Achieved a seamless transfer with only 2 minutes downtime. Demonstrated expertise in optimizing costs and minimizing downtime, ensuring a cost-effective and efficient transition for client.
+          ◦ Migrated client’s infrastructure from AWS to Azure, including a 15GB database and services like Autoscaling, Load balancing, etc. Achieved a seamless transfer with only 2 minutes of downtime. Demonstrated expertise in optimizing costs and minimizing downtime, ensuring a cost-effective and efficient transition for clients.
           
-          ◦ Designed and accomplished robust and scalable cloud environments prioritizing high availability, fault tolerance, and optimal performance. Implemented industry best practices to minimize downtime, maximize availability, and maintain cost-efficiency. Resulted in completion of a $5,000 valued project.
+          ◦ Designed and accomplished robust and scalable cloud environments prioritizing high availability, fault tolerance, and optimal performance. Implemented industry best practices to minimize downtime, maximize availability, and maintain cost-efficiency. Resulted in the completion of a $5,000 valued project.
           
-          ◦ Implemented infrastructure as code methodologies to enhance product development process. Streamlined infrastructure deployment and management through automation, ensuring efficient and consistent provisioning of resources. Reduced manual errors and ensured scalability and reproducibility throughout product lifecycle. Decreased deployment time from 5 hours to 0.5 hour per deployment, resulting in improved efficiency.
+          ◦ Implemented infrastructure as code methodologies to enhance the product development process. Streamlined infrastructure deployment and management through automation, ensuring efficient and consistent provisioning of resources. Reduced manual errors and ensured scalability and reproducibility throughout the product lifecycle. Decreased deployment time from 5 hours to 0.5 hours per deployment, resulting in improved efficiency.
           
-          ◦ Designed and performed a robust monitoring system for company’s flagship product. Leveraged on capabilities of Elastic Stack, including Elasticsearch, Logstash, and Kibana, to efficiently manage and analyze logs. Comprehensive solution provided real-time insights and increased visibility into virtual machines’ performance, catalyzing proactive issue identification and timely resolution. The comprehensive solution enabled real-time insights and increased visibility into virtual machines, resulting in a 50% improvement in issue identification (200 to 300 alerts) and timely resolution, reducing downtime and maximizing operational efficiency.
+          ◦ Designed and performed a robust monitoring system for the company’s flagship product. Leveraged on capabilities of Elastic Stack, including Elasticsearch, Logstash, and Kibana, to efficiently manage and analyze logs. Comprehensive solution provided real-time insights and increased visibility into virtual machines’ performance, catalyzing proactive issue identification and timely resolution. The comprehensive solution enabled real-time insights and increased visibility into virtual machines, resulting in a 50% improvement in issue identification (200 to 300 alerts) and timely resolution, reducing downtime and maximizing operational efficiency.
           
-          ◦ Constructed and deployed automation bots using Blue Prism and UI Path to streamline email management and automate file downloads, eliminating redundant tasks for client. Achieved a weekly reduction of 10 hours in manual workload.
+          ◦ Constructed and deployed automation bots using Blue Prism and UI Path to streamline email management and automate file downloads, eliminating redundant tasks for clients. Achieved a weekly reduction of 10 hours in manual workload.
 
   - title: Education
     layout: list
@@ -298,19 +298,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Graduated with CGPA of 4/4
 
-          Worked as Graduate Teaching Assistant
+          Worked as a Graduate Teaching Assistant
 
-          Worked as Research Assistant
+          Worked as a Research Assistant
       - layout: top-right
         title: Sri Venkateswara University
-        sub_title: Bachelor of Technology, Computer Science and Engineerin
+        sub_title: Bachelor of Technology, Computer Science and Engineering
         caption: 2013 - 2019
         #quote: >
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Graduated with CGPA of 7.6/10
+          Graduated with a CGPA of 7.6/10
           
-          General Sceretery of Department of Computer Science and Engineering 2016-17
+          General Secretary of the Department of Computer Science and Engineering 2016-17
 
           Member of Anti-Ragging Squad 2016-17
 
