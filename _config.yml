@@ -66,7 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Adaptive Deep-Learning for Environment Agnostic Human Action Recognition
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -89,7 +89,7 @@ content:
           
           ◦ Achieved notable metrics: AlexNet (up to 36% accuracy, 37.51% precision) and VGG (up to 39% accuracy, 35.26% precision) under varying conditions.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: NovelConvo AI - Intelligent Conversations with Literary Companions (RAG Application)
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -116,7 +116,7 @@ content:
           
           ◦ Developed a chatbot web application using ReactJs.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Neural Machine Translation
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -137,7 +137,7 @@ content:
           
           ◦ Performed a Sequence-to-Sequence network with bidirectional encoding and incorporated an Attention mechanism in the decoding process. This advanced architecture led to remarkable results, attaining a notable test Bleu score of 0.406. The model’s ability to generate accurate and coherent sequences was improved by the inclusion of Attention.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Inverted Index and Boolean DAAT Retrieval Web Application in Flask (Python)
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -160,7 +160,7 @@ content:
           
           ◦ Enabled interactive querying through a Flask web application, demonstrating web development and information retrieval skills.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Neural Image Classification
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -183,7 +183,7 @@ content:
           
           ◦ Created and trained a customized AlexNet model to classify a 10-class ImageNet dataset, achieving an accuracy of 68.4%. Then, I implemented the VGG-13 model and employed Mixed Precision Training, which led to a notable accuracy improvement to 71.8%.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: FIFA 23 Players Archive - Comprehensive Data & Analysis Database Management System with Power BI Visualization
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
