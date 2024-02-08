@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   You can call me Jakka and I am a Graduate Teaching Assistant at the University at Buffalo working in the fields of Statistical Data Mining and Data Model Query Language under Professors Dr.Sreyasee and Dr.Leonid Khinkis.
 
   ## Technical Proficiency
-  - Proficient in a variety of programming languages and frameworks including C#, WPF, MVVM, .Net Core, ASP.NET MVC, Web API, Entity Framework, and Python.
+  - Proficient in a variety of programming languages and frameworks including C#, WPF, WCF, MVVM, .Net Core, ASP.NET MVC, Web API, Entity Framework, ADO.NET, Angular8 and Python.
   - Demonstrated practical skills in Finance, Banking, Industrial, and Trading sports domains, applying technical knowledge effectively in real-world scenarios.
   - Proven track record of contributing to technology migration projects, showcasing adaptability and proficiency in transitioning applications to newer platforms seamlessly.
 
@@ -123,6 +123,10 @@ content:
 
           ◦ Implemented and maintained Elastic Search for log aggregation and analysis, utilizing Kibana to quickly identify anomalies and troubleshoot system issues.
 
+          ◦ Transitioned from traditional legacy systems to NoSQL databases, gaining hands-on experience with Redis and Cassandra.
+
+          ◦ Implemented CI/CD pipelines using Azure DevOps, enhancing automation and efficiency in software deployment processes.
+
           ◦ Implemented sophisticated performance monitoring solutions, leveraging high-end performance counters to monitor system load and proactively alert stakeholders via email, ensuring optimal system performance and reliability.
 
           ◦ Fostered strong collaboration with the product team, maintaining open communication channels to quickly gather and understand requirements, ensuring alignment between development efforts and business objectives.
@@ -150,7 +154,7 @@ content:
           
           ◦ APTRA Activate Enterprise:
 
-            - Led the deployment and customization of APTRA Activate to APTRA Activate Enterprise, an advanced ATM software by NCR.. 
+            - Led the deployment and customization of APTRA Activate to APTRA Activate Enterprise, an advanced ATM software by NCR. 
 
             - Spearheaded the transition of the APTRA Activate application from WPF to Angular8.
             
@@ -159,7 +163,7 @@ content:
             - This involved implementing UI enhancements and internal logic modifications to optimize cash withdrawal and deposit processes, thereby enhancing operational efficiency and customer satisfaction.      
       - layout: right
         title: Hexagon Capability Center India Pvt Ltd.
-        sub_title: PS Software Engineer II
+        sub_title: Senior Software Analyst
         caption: October 2016 - September 2019 
         link: https://hexagon.com/company/careers/capability-centre-india
         #quote: >
