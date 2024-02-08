@@ -16,7 +16,7 @@ phone: +1-8147613209
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
@@ -79,7 +79,7 @@ content:
         quote: >
           Revamp Epic gaming data management with a dynamic player database system.
         description: | # this will include new lines to allow paragraphs
-          ◦ Created and maintained a Fifa23 Players database from scratch using database design theory. This involves data massaging using Python, modeling E/R diagrams, and translating it into a relational schema.
+          ◦ Created and maintained a Epic Gaming database from scratch using database design theory. This involves data messaging using Python, modeling E/R diagrams, and translating it into a relational schema.
           
           ◦ Analyzed functional dependencies and normalized the tables to eliminate data redundancies and anomalies.
           
@@ -136,7 +136,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ◦ Multicurrency Exchange Terminal Development:
 
-             - One of the standout accomplishments was the conception and development of a state-of-the-art Multicurrency ATM application, engineered to function as a dynamic foreign exchange counter.
+             - One of the standout accomplishments was the conception and development of Multicurrency ATM application, engineered to function as a dynamic foreign exchange counter.
 
              - This groundbreaking application boasted support for up to 10 input currencies and offered adaptable output options, enabling users to obtain their preferred currency combinations seamlessly.
 
@@ -146,17 +146,15 @@ content:
 
              - This collaborative effort culminated in the successful showcasing of our innovative solution at the prestigious Dubai Expo 2020.
 
-             - Our solution garnered widespread acclaim for its sophistication and efficacy in addressing the evolving demands of modern banking, solidifying our reputation as industry trailblazers.
+             - Our solution received a lot of praise for its advanced features and effectiveness in meeting the changing needs of modern banking. 
           
           ◦ APTRA Activate Enterprise:
 
-            - Furthermore, I led the charge in deploying and customizing APTRA Activate Enterprise, an advanced ATM software solution developed by NCR. 
+            - Led the deployment and customization of APTRA Activate to APTRA Activate Enterprise, an advanced ATM software by NCR.. 
 
-            - Migrated the entire APTRA Activate application from WPF to Angular8.
-
-            - Our successful deployments across multiple banks in the United States and the Middle East and Africa region underscored the versatility and effectiveness of our solution in meeting diverse banking requirements.
-
-            - I played a pivotal role in managing change requests for Emirates National Bank of Dubai's ATM application.
+            - Spearheaded the transition of the APTRA Activate application from WPF to Angular8.
+            
+            - I took the lead in handling changes and updates for the ATM application at Emirates National Bank of Dubai.
 
             - This involved implementing UI enhancements and internal logic modifications to optimize cash withdrawal and deposit processes, thereby enhancing operational efficiency and customer satisfaction.      
       - layout: right
@@ -187,7 +185,7 @@ content:
 
           ◦ Independently managed the entire task, resulting in a notable 30% improvement in application performance.
 
-          ◦ Received Hexagon Star Award for being a quick learner and doint he work accurately.
+          ◦ I was honored with the Hexagon Star Award in recognition of my ability to quickly grasp new concepts and execute tasks with precision.
 
   - title: Education
     layout: list
