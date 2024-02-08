@@ -52,13 +52,14 @@ linkedin_username: sushmitha-jakka
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/SushmithaJakka.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Sushmitha, and I serve as a Graduate Teaching Assistant at the University at Buffalo, where I specialize in Statistical Data Mining and Data Model Query Language, guided by Professors Dr. Sreyasee 
-  and Dr. Leonid Khinkis. With over 6+ years of experience in software engineering, especially in technologies related to Microsoft, I have gained significant knowledge and skills in this ever-changing field.
+  I'm Sushmitha, a Graduate Teaching Assistant at the University at Buffalo, deeply engaged in the realms of Statistical Data Mining and Data Model Query Language under the mentorship of Professors Dr. Sreyasee and Dr. Leonid Khinkis. 
+  My passion for learning and adapting to new technologies drives my academic and professional journey. With 6+ years of experience in software engineering, particularly in Microsoft-related technologies, I've built a strong foundation and continuously expand my expertise in the dynamic landscape of technology.
 
   ## Technical Proficiency
   - Proficient in a variety of programming languages and frameworks including C#, WPF, WCF, MVVM, .Net Core, ASP.NET MVC, Web API, Entity Framework, ADO.NET, Angular8 and Python.
   - Demonstrated practical skills in Finance, Banking, Industrial, and Trading sports domains, applying technical knowledge effectively in real-world scenarios.
   - Proven track record of contributing to technology migration projects, showcasing adaptability and proficiency in transitioning applications to newer platforms seamlessly.
+  - Extensive hands-on experience with Azure and AWS platforms.
 
 content:
   - title: Academic Projects # Title for the section
