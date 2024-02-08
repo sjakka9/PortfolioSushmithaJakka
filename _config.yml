@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jakka Sushmitha
-title: Graduate Teaching Assistant
+title: Senior Software Engineer
 email: jakkasushmitha18@gmail.com
 # email_title: Email (Email title override)
 phone: +1-8147613209
@@ -16,7 +16,7 @@ phone: +1-8147613209
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
@@ -87,13 +87,13 @@ content:
           
           ◦ Designed and created an interactive website using HTML5, CSS3, JavaScript, NodeJS, and PyFlask that provides visual insights into the database, showcasing different stats.
 
-  - title: Experience
+  - title: Work Experience
     layout: list
     content:
       - layout: right
         title: University at Buffalo
         sub_title: Graduate Teaching Assistant
-        caption: May 2023 - Present
+        caption: Jan 2024 - Present
         link: https://www.buffalo.edu
         #quote: >
           #Short description of the company (optional)
