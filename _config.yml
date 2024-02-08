@@ -1,16 +1,16 @@
 # Site
-repository: CodeName-Detective/portfolio
+repository: sjakka9/PortfolioSushmithaJakka
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Shri Harsha Adapala
-title: Research Assistant
-email: shriadapala@outlook.com
+name: Jakka Sushmitha
+title: Graduate Teaching Assistant
+email: jakkasushmitha18@gmail.com
 # email_title: Email (Email title override)
-phone: +1-7166581292
+phone: +1-8147613209
 # phone_title: Phone (Phone title override)
 #website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -20,13 +20,13 @@ darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  CodeName-Detective
+github_username:  sjakka9
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: shri-harsha-adapala
+linkedin_username: sushmitha-jakka
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,14 +52,12 @@ linkedin_username: shri-harsha-adapala
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/bat_baby.JPG
 about_content: | # this will include new lines to allow paragraphs
-  You can call me Shri and I am a Research Assitant at the University at Buffalo working in the fields of Conversational AI and Instance Segmentation. I also have experience in Cloud Platforms and Robotic Process Automation.
-  
-  I've got this whole Batman vibe going on. Just waiting for my utility belt to arrive in the mail!
+  You can call me Jakka and I am a Graduate Teaching Assistant at the University at Buffalo working in the fields of Statistical Data Mining and Data Model Query Language under Professors Dr.Sreyasee and Dr.Leonid Khinkis.
 
   ## Technical Proficiency
-  - Proficient in programming languages: C++, and Python.
-  - Expertise in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Reinforcement Learning.
-  - Hands-on experience with PyTorch, CUDA programming, AWS, and Azure.
+  - Proficient in a variety of programming languages and frameworks including C#, WPF, MVVM, .Net Core, ASP.NET MVC, Web API, Entity Framework, and Python.
+  - Demonstrated practical skills in Finance, Banking, Industrial, and Trading sports domains, applying technical knowledge effectively in real-world scenarios.
+  - Proven track record of contributing to technology migration projects, showcasing adaptability and proficiency in transitioning applications to newer platforms seamlessly.
 
 content:
   - title: Academic Projects # Title for the section
@@ -185,7 +183,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: FIFA 23 Players Archive - Comprehensive Data & Analysis Database Management System with Power BI Visualization
+        title: EPIC Games - Comprehensive Data & Analysis Database Management System with Interactive website.
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
@@ -196,7 +194,7 @@ content:
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Revamp football data management with a dynamic player database system.
+          Revamp Epic gaming data management with a dynamic player database system.
         description: | # this will include new lines to allow paragraphs
           ◦ Created and maintained a Fifa23 Players database from scratch using database design theory. This involves data massaging using Python, modeling E/R diagrams, and translating it into a relational schema.
           
@@ -204,39 +202,11 @@ content:
           
           ◦ Formulated and executed a variety of SQL queries to address common retail scenarios, and optimized queries for efficient data retrieval.
           
-          ◦ Designed and created an interactive PowerBi Dashboard that provides visual insights into the database, showcasing different stats.
+          ◦ Designed and created an interactive website using HTML5, CSS3, JavaScript, NodeJS, and PyFlask that provides visual insights into the database, showcasing different stats.
 
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: University at Buffalo
-        sub_title: Research Assistant
-        caption: Jan 2024 - Present
-        link: https://www.buffalo.edu
-        #quote: >
-          #Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          ◦ Working under Dr. Rohini Srihari in the NLP Lab on Enhancing Alternative Augmentative Communication (AAC).
-          
-          ◦ Collecting Data and Annotating it.
-          
-          ◦ Building Real-Time Data Retrieval Module and Context Generation using LLMs and fine-tuning them.
-      - layout: right
-        title: University at Buffalo
-        sub_title: Research Assistant
-        caption: Jan 2024 - Present
-        link: https://www.buffalo.edu
-        #quote: >
-          #Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          ◦ Working under Dr. Karthik Dantu in the Computer Vision DRONES Lab on detecting and classifying plastic material using Computer Vision and Instance Segmentation for Buffalo’s plastic recycling plant.
-          
-          ◦ Collecting Data and Annotating it.
-          
-          ◦ Building Pipelines to train and test the Mask R-CNN model on different datasets.
-          
-          ◦ Building Visualization Scripts to analyze the models’ internal representation on different datasets.
       - layout: right
         title: University at Buffalo
         sub_title: Graduate Teaching Assistant
@@ -245,46 +215,96 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          ◦ Played a pivotal role in two key courses: Probability Theory and Stochastic Processes, and Applied Statistical Analysis.
+          ◦ Played a pivotal role in two key courses: Data Model Query Language, and Statistical Data Mining.
           
           ◦ Facilitated weekly practical sessions, enabling students to gain hands-on experience and deepen their understanding of course materials.
           
-          ◦ Held the position of a grader for the Time Series Analysis course. Evaluated and assessed students’ assignments, exams, and projects related to the course.
+          ◦ Evaluated and assessed students’ assignments, exams, and projects related to the course.
           
-          ◦ Managed a diverse cohort of 260 students.
+          ◦ Managed a diverse cohort of 250 students.
       - layout: right
-        title: Thoucentric
-        sub_title: Data Scientist
-        caption: February 2021 - December 2022
-        link: https://thoucentric.com
+        title: IVY Comptech
+        sub_title: Senior Software Engineer
+        caption: August 2021 - January 2023
+        link: https://ivy.global/
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          ◦ Conducted sentiment analysis on reviews within the Research and Development department of Unilever, utilizing Recurrent Neural Networks (RNNs). Identified areas of improvement within the company’s products based on distinguished sentiment, providing valuable insights for improving product offerings. Increased annual product sales from 54% to 56.16%.
-          
-          ◦ Created an Information Retrieval system (IR) to accurately identify and map products across various sources and marketplaces, facilitating efficient mapping and integration of products between different platforms and marketplaces for the company’s legacy data. Facilitated initiation of an internal project valued at $10,000 for the company.
+          ◦ Acquired expertise in the betting and gaming domain, facilitating a deep understanding of Trading Sports Software.
 
+          ◦ Led initiatives to modernize legacy applications, overseeing the seamless transition from .NET Framework 4 to the latest .NET 7, ensuring compatibility and optimizing performance.
+
+          ◦ Spearheaded the migration from Tibco to Kafka signalling systems, enhancing application interactivity and real-time data processing capabilities, thereby improving overall performance and user experience.
+
+          ◦ Successfully orchestrated the conversion of WCF services to RESTful APIs, modernizing communication protocols and improving interoperability across systems.
+
+          ◦ Implemented and maintained Elastic Search for log aggregation and analysis, utilizing Kibana to quickly identify anomalies and troubleshoot system issues.
+
+          ◦ Implemented sophisticated performance monitoring solutions, leveraging high-end performance counters to monitor system load and proactively alert stakeholders via email, ensuring optimal system performance and reliability.
+
+          ◦ Fostered strong collaboration with the product team, maintaining open communication channels to quickly gather and understand requirements, ensuring alignment between development efforts and business objectives.
       - layout: right
-        title: Cloudaccel InC.
-        sub_title: Data Scientist / Robotic Process Automation Engineer / Cloud Infrastructure Engineer 
-        caption: March 2018 - February 2021
-        link: https://cloudaccel.io
+        title: NCR Corporation India Pvt Ltd.
+        sub_title: PS Software Engineer II
+        caption: September 2019 - June 2021
+        link: https://www.ncr.com/
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          ◦ Devised and integrated Auto Encoders as a crucial component in the company’s flagship project to detect machine anomalies. Utilized optimized and cleaned data for enhanced performance. Increased monthly alerts from 300 to 450, demonstrating improved monitoring and detection capabilities.
+          ◦ Multicurrency Exchange Terminal Development:
+
+             - One of the standout accomplishments was the conception and development of a state-of-the-art Multicurrency ATM application, engineered to function as a dynamic foreign exchange counter.
+
+             - This groundbreaking application boasted support for up to 10 input currencies and offered adaptable output options, enabling users to obtain their preferred currency combinations seamlessly.
+
+             - Leveraging cutting-edge technologies such as WPF and MVVM, I meticulously crafted intuitive user interfaces that revolutionized the banking experience for Emirates National Bank of Dubai's clientele.
+
+             - I collaborated closely with the Emirates National Bank of Dubai team at their headquarters, ensuring that the Multicurrency application not only met but exceeded their unique requirements.
+
+             - This collaborative effort culminated in the successful showcasing of our innovative solution at the prestigious Dubai Expo 2020.
+
+             - Our solution garnered widespread acclaim for its sophistication and efficacy in addressing the evolving demands of modern banking, solidifying our reputation as industry trailblazers.
           
-          ◦ Led migration of a client’s entire infrastructure from an on-premises environment to AWS, ensuring a seamless transition. Realized an annual cost savings of $60,000 by utilizing a pay-as-you-go model.
-          
-          ◦ Migrated client’s infrastructure from AWS to Azure, including a 15GB database and services like Autoscaling, Load balancing, etc. Achieved a seamless transfer with only 2 minutes of downtime. Demonstrated expertise in optimizing costs and minimizing downtime, ensuring a cost-effective and efficient transition for clients.
-          
-          ◦ Designed and accomplished robust and scalable cloud environments prioritizing high availability, fault tolerance, and optimal performance. Implemented industry best practices to minimize downtime, maximize availability, and maintain cost-efficiency. Resulted in the completion of a $5,000 valued project.
-          
-          ◦ Implemented infrastructure as code methodologies to enhance the product development process. Streamlined infrastructure deployment and management through automation, ensuring efficient and consistent provisioning of resources. Reduced manual errors and ensured scalability and reproducibility throughout the product lifecycle. Decreased deployment time from 5 hours to 0.5 hours per deployment, resulting in improved efficiency.
-          
-          ◦ Designed and performed a robust monitoring system for the company’s flagship product. Leveraged on capabilities of Elastic Stack, including Elasticsearch, Logstash, and Kibana, to efficiently manage and analyze logs. Comprehensive solution provided real-time insights and increased visibility into virtual machines’ performance, catalyzing proactive issue identification and timely resolution. The comprehensive solution enabled real-time insights and increased visibility into virtual machines, resulting in a 50% improvement in issue identification (200 to 300 alerts) and timely resolution, reducing downtime and maximizing operational efficiency.
-          
-          ◦ Constructed and deployed automation bots using Blue Prism and UI Path to streamline email management and automate file downloads, eliminating redundant tasks for clients. Achieved a weekly reduction of 10 hours in manual workload.
+          ◦ APTRA Activate Enterprise:
+
+            - Furthermore, I led the charge in deploying and customizing APTRA Activate Enterprise, an advanced ATM software solution developed by NCR. 
+
+            - Migrated the entire APTRA Activate application from WPF to Angular8.
+
+            - Our successful deployments across multiple banks in the United States and the Middle East and Africa region underscored the versatility and effectiveness of our solution in meeting diverse banking requirements.
+
+            - I played a pivotal role in managing change requests for Emirates National Bank of Dubai's ATM application.
+
+            - This involved implementing UI enhancements and internal logic modifications to optimize cash withdrawal and deposit processes, thereby enhancing operational efficiency and customer satisfaction.      
+      - layout: right
+        title: Hexagon Capability Center India Pvt Ltd.
+        sub_title: PS Software Engineer II
+        caption: October 2016 - September 2019 
+        link: https://hexagon.com/company/careers/capability-centre-india
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          ◦ Contributed to Hexagon PPM's project focusing on Smart3D and CloudWorx for Smart3D products, emphasizing laser scanning technology.
+
+          ◦ Laser scanning is recognized for its precision, comprehensiveness, and cost efficiency in capturing and utilizing as-built data for existing facilities.
+
+          ◦ Transitioned codebase from VB.Net to C#.Net. and Upgraded frontend from WinForms to WPF for a modernized user experience. Integrated DevExpress and Telerik UI components to enhance the visual appeal and functionality.
+
+          ◦ Updated approximately 30 NuGet packages to ensure compatibility with the latest .NET framework.
+
+          ◦ Managed MS Build configurations and automated build and deployment strategies.
+
+          ◦ Utilized 'Coverity' by Synopsys for static code analysis, identifying and fixing bugs to enhance software stability.
+
+          ◦ Worked closely with UX designers and Product Managers to align development efforts with user-centric design principles.
+
+          ◦ Orchestrated on-site interactions with the USA team to clarify requirements and streamline communication channels.
+
+          ◦ Developed unit-test code using NUnit framework to ensure reliability and resilience of C# codebase.
+
+          ◦ Independently managed the entire task, resulting in a notable 30% improvement in application performance.
+
+          ◦ Received Hexagon Star Award for being a quick learner and doint he work accurately.
 
   - title: Education
     layout: list
@@ -296,31 +316,20 @@ content:
         #quote: >
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Graduated with CGPA of 4/4
+          Graduated with CGPA of 3.93/4
 
           Worked as a Graduate Teaching Assistant
 
-          Worked as a Research Assistant
       - layout: top-right
-        title: Sri Venkateswara University
+        title: Osmania University
         sub_title: Bachelor of Technology, Computer Science and Engineering
-        caption: 2013 - 2019
+        caption: 2012 - 2016
         #quote: >
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Graduated with a CGPA of 7.6/10
+          Graduated with a CGPA of 9/10.
           
-          General Secretary of the Department of Computer Science and Engineering 2016-17
-
-          Member of Anti-Ragging Squad 2016-17
-
-  - title: The R&D Crusade - A Scientific Journey Beyond Gotham.
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      <h4><center><em>In the vast landscape of AI research, follow the caped crusader of science as we navigate the frontiers of innovation, armed with intellect and curiosity</em></center></h4>
-
-
-      #### <em>In Progress........</em>
+          Osmania Univeristy Gold Medalist.
 
 # Footer
 footer_show_references: true
