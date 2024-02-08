@@ -16,7 +16,7 @@ phone: +1-8147613209
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
@@ -52,7 +52,8 @@ linkedin_username: sushmitha-jakka
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/SushmithaJakka.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  You can call me Jakka and I am a Graduate Teaching Assistant at the University at Buffalo working in the fields of Statistical Data Mining and Data Model Query Language under Professors Dr.Sreyasee and Dr.Leonid Khinkis.
+  My name is Sushmitha, and I serve as a Graduate Teaching Assistant at the University at Buffalo, where I specialize in Statistical Data Mining and Data Model Query Language, guided by Professors Dr. Sreyasee 
+  and Dr. Leonid Khinkis. With over 6+ years of experience in software engineering, especially in technologies related to Microsoft, I have gained significant knowledge and skills in this ever-changing field.
 
   ## Technical Proficiency
   - Proficient in a variety of programming languages and frameworks including C#, WPF, WCF, MVVM, .Net Core, ASP.NET MVC, Web API, Entity Framework, ADO.NET, Angular8 and Python.
