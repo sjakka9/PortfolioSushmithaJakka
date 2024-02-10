@@ -171,25 +171,36 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          ◦ Contributed to Hexagon PPM's project focusing on Smart3D and CloudWorx for Smart3D products, emphasizing laser scanning technology.
+          ◦ Experienced developer in migrating the application from a legacy VB.NET code to C#.NET and UI from WinForms to WPF with MVVM.
 
-          ◦ Laser scanning is recognized for its precision, comprehensiveness, and cost efficiency in capturing and utilizing as-built data for existing facilities.
+          ◦ Integrated DevExpress and Telerik UI components to enhance the visual appeal and functionality.
 
-          ◦ Transitioned codebase from VB.Net to C#.Net. and Upgraded frontend from WinForms to WPF for a modernized user experience. Integrated DevExpress and Telerik UI components to enhance the visual appeal and functionality.
+          ◦ Updated approximately 30 NuGet packages to ensure compatibility with the latest .NET framework.    
 
-          ◦ Updated approximately 30 NuGet packages to ensure compatibility with the latest .NET framework.
-
-          ◦ Managed MS Build configurations and automated build and deployment strategies.
-
-          ◦ Utilized 'Coverity' by Synopsys for static code analysis, identifying and fixing bugs to enhance software stability.
+          ◦ Participated in requirement review, peer-reviews and code reviews. Released weekly builds along with proper documentation as part of sprint.
 
           ◦ Worked closely with UX designers and Product Managers to align development efforts with user-centric design principles.
 
           ◦ Orchestrated on-site interactions with the USA team to clarify requirements and streamline communication channels.
 
-          ◦ Developed unit-test code using NUnit framework to ensure reliability and resilience of C# codebase.
-
           ◦ Independently managed the entire task, resulting in a notable 30% improvement in application performance.
+      - layout: right
+        title: Hexagon Capability Center India Pvt Ltd.
+        sub_title: Software Analyst
+        caption: October 2016 - September 2019 
+        link: https://hexagon.com/
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          ◦ Contributed to Hexagon PPM's project focusing on Smart3D and CloudWorx for Smart3D products, emphasizing laser scanning technology.
+
+          ◦ Laser scanning is recognized for its precision, comprehensiveness, and cost efficiency in capturing and utilizing as-built data for existing facilities.
+
+          ◦ Transitioned codebase from VB.Net to C#.Net. and Upgraded frontend from WinForms to WPF for a modernized user experience. 
+          
+          ◦ Managed MS Build configurations and automated build and deployment strategies.
+
+          ◦ Utilized 'Coverity' by Synopsys for static code analysis, identifying and fixing bugs to enhance software stability.
 
           ◦ I was honored with the Hexagon Star Award in recognition of my ability to quickly grasp new concepts and execute tasks with precision.
 
